@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "102667268035",
+    "firebase_url": "https://fourth-return-405814-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fourth-return-405814",
+    "storage_bucket": "fourth-return-405814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102667268035:android:9d5bc402e56650cfea9776",
+        "android_client_info": {
+          "package_name": "com.example.auth_form_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4cVQwip2aI9Soiv9zFsBRrQKkGomUHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
